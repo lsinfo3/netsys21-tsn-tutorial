@@ -13,7 +13,7 @@ Small python framework that is being used in the practical example
 
 This short snippet belongs to a TSN Tutorial, presented at the NetSys'21 conference: https://netsys2021.org/
 
-Presentation slides can be found on my [personal website](https://www.informatik.uni-wuerzburg.de/comnet/team/mitarbeiter/alexej-grigorjew/) - direct link to slides: https://www.informatik.uni-wuerzburg.de/fileadmin/10030300/2021/Netsys21-TSN-tutorial.pdf
+Presentation slides can be found on my [personal website](https://www.informatik.uni-wuerzburg.de/comnet/team/mitarbeiter/alexej-grigorjew/) - direct link to slides: [Download](https://www.informatik.uni-wuerzburg.de/fileadmin/10030300/2021/Netsys21-TSN-tutorial.pdf)
 
 ## Authors
 
